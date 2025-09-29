@@ -1,16 +1,21 @@
-# practiica_dessing_flutter
+# Practica Diseño Flutter
 
-A new Flutter project.
+Proyecto Flutter de práctica para diseño de interfaces y componentes.
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter SDK 3.x
+- Dart 3.x
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación y configuración
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Ejecuta la app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+
+## Estructura básica
+
+- `lib/`: código fuente principal
+- `lib/main.dart`: punto de entrada de la app
